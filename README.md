@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on **Buy High**
 
-- 🌱 I’m currently learning **Computer science and engineering (CSE), Web Development**
+- 🌱 I’m currently learning: **Computer science and engineering (CSE), Web Development**
 
 - 💬 Ask me about **C, C++, Python, HTML, CSS, JAVASCRIPT, REACT, Node.js, Django, API, Vite, Vercel, FireBase, Figma, Data Structure**
 
