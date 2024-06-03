@@ -8,9 +8,9 @@
 
 - 🔭 I’m currently working on **Buy High**
 
-- 🌱 I’m currently learning **React-Js, Data Structure,**
+- 🌱 I’m currently learning **Computer science and engineering (CSE), Web Development**
 
-- 💬 Ask me about **C, C++, Python, HTML, CSS, JAVASCRIPT, REACT, Data Structure**
+- 💬 Ask me about **C, C++, Python, HTML, CSS, JAVASCRIPT, REACT, Node.js, Django, API, Vite, Vercel, FireBase, Figma, Data Structure**
 
 - 📫 How to reach me **shakhawatbijoy1@gmail.com**
 
